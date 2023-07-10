@@ -103,3 +103,21 @@ header {
     color: #866621;
     padding: 30px;
 }
+.cursos div{
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px;
+    box-shadow: 20px 15px 15px rgba(0, 0, 0, 0.4);
+    margin: 20px;
+}
+.h1DivCursos{
+  color: #866621;
+  font-family: sans-serif;
+  margin-left: 20px;
+}
+.cursos p{
+  color: #866621;
+  font-family: sans-serif;
+  margin-left: 20px;
+  font-size: 20px;
+}
