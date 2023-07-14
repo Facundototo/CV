@@ -110,12 +110,31 @@ header {
     box-shadow: 20px 15px 15px rgba(0, 0, 0, 0.4);
     margin: 20px;
 }
+.h1Subtitulo{
+  color: white;
+  font-family: sans-serif;
+  font-size: 30px;
+  margin-left: 30px;
+}
 .h1DivCursos{
   color: #866621;
   font-family: sans-serif;
   margin-left: 20px;
 }
 .cursos p{
+  color: #866621;
+  font-family: sans-serif;
+  margin-left: 20px;
+  font-size: 20px;
+}
+.contacto{
+  background-color: white;
+  border: 1px solid white;
+  border-radius: 20px;
+  box-shadow: 20px 15px 15px rgba(0, 0, 0, 0.4);
+  margin: 20px;
+}
+.contacto h1{
   color: #866621;
   font-family: sans-serif;
   margin-left: 20px;
